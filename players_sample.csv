@@ -1,0 +1,6 @@
+name,role,team,base_price,expected_value
+Mario Rossi,A,Team1,10,20
+Luca Bianchi,C,Team2,8,15
+Giorgio Verdi,D,Team3,5,12
+Andrea Neri,P,Team4,2,8
+Francesco Gialli,A,Team5,12,25
